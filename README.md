@@ -19,8 +19,9 @@
 📫 Você pode entrar em contato comigo para acompanhar minhas aventuras no mundo da programação.
 
 <div>
-<img width="20%" src="https://github-readme-stats.vercel.app/api?username=jessicakellyjkx&bg_color=30,000000,FF1261&title_color=fff&text_color=fff&include_all_commits=true&count_private=true"/>
-<img width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicakellyjkx&layout=pie&langs_count-16&bg_color=30,FF1261,000000&title_color=fff&text_color=fff"/>
+<a href="https://beacons.ai/jessicakellyjkx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicakellyjkx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicakellyjkx&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 

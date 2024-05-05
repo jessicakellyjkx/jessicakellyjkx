@@ -1,22 +1,15 @@
 
 <h1>👋 Olá, eu sou a Jessica Kelly!</h1>
 
-👩‍💻 Tenho 24 anos e sou estudante de Análise e Desenvolvimento de Sistemas no IFSP campus Bragança Paulista. Atualmente, estou focada em aprimorar minhas habilidades de programação nas seguintes linguagens:
+👩‍💻 Tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas no IFSP campus Bragança Paulista. Atualmente, estou focada em aprimorar minhas habilidades de programação nas seguintes linguagens:
 - Python 🐍
 - JavaScript 🌐
 - C 🖥️
 - Portugol 📝
 - Aprendendo HTML e CSS 🎨
 
-💻 Sou apaixonada por codificação e estou determinada a construir uma carreira sólida nesta área. Meu objetivo é criar soluções inovadoras e contribuir para o mundo da tecnologia.
+💻 Sou apaixonada por codificação e estou determinada a construir uma carreira sólida nesta área.
 
-🐦 Além disso, sou mãe de 3 calopsitas e compartilho minha casa com 5 gatos adoráveis. 🐱🐱🐱🐱🐱
-
-🧠 Como uma pessoa com TDAH, luto para aumentar a conscientização sobre esse transtorno e ajudar a quebrar estigmas. Acredito que a diversidade de perspectivas é essencial para o progresso da tecnologia.
-
-🌟 Vamos colaborar, aprender e crescer juntos!
-
-📫 Você pode entrar em contato comigo para acompanhar minhas aventuras no mundo da programação.
 
 <div>
 <a href="https://beacons.ai/jessicakellyjkx">

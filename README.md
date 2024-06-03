@@ -4,9 +4,8 @@
 👩‍💻 Tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas no IFSP campus Bragança Paulista. Atualmente, estou focada em aprimorar minhas habilidades de programação nas seguintes linguagens:
 - Python 🐍
 - JavaScript 🌐
-- C 🖥️
-- Portugol 📝
-- Aprendendo HTML e CSS 🎨
+- PHP
+- Aprendendo HTML, CSS e SQL 🎨
 
 💻 Sou apaixonada por codificação e estou determinada a construir uma carreira sólida nesta área.
 
@@ -37,4 +36,5 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jessicakellyjkx/jessicakellyjkx/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jessicakellyjkx/jessicakellyjkx/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jessicakellyjkx/jessicakellyjkx/output/github-contribution-grid-snake.svg">
+
 </picture>
